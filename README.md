@@ -1,8 +1,8 @@
-# TG-String-Session
+# TG String Session
 Generate Pyrogram String Session Using this bot.
 
 ## Demo Bot:
-<a href="https://t.me/StringSessionGen_Bot"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
+<a href="https://t.me/StringSessionGenRobot"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
 
 ## Configs:
 - API_HASH
@@ -23,22 +23,22 @@ Generate Pyrogram String Session Using this bot.
 <a href="https://t.me/linux_repo"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 
 #### Coded By
-- [Krishna Singhal](https://github.com/Krishna-Singhal)
-- [Abir Hasan](https://github.com/AbirHasan2005)
+- [Prabhasha](https://github.com/Krishna-Singhal)
+- [Abir Hasan](https://github.com/Prabhasha-p)
 
 ### Note:
-This was First made by [Krishna Singhal](https://github.com/Krishna-Singhal). Thanks a lot for his nice Bot. [I](https://github.com/AbirHasan2005) just made some little changes to make the bot more good looking. Also [I](https://github.com/AbirHasan2005) added [Deploy to Heroku](https://github.com/AbirHasan2005/TG-String-Session#deploy-now) Button for easy Deploies. I don't own this repo fully.
+This was First made by [Krishna Singhal](https://github.com/Krishna-Singhal). Thanks a lot for his nice Bot. [I](https://github.com/Prabhasha-p) just made some little changes to make the bot more good looking. Also [I](https://github.com/Prabhasha-p) added [Deploy to Heroku](https://github.com/prabhasha-p/TG-String-Session#deploy-now) Button for easy Deploies. I don't own this repo fully.
 
 ## Follow on:
 <p align="left">
-<a href="https://github.com/AbirHasan2005"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
+<a href="https://github.com/Prabhasha-p"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
 </p>
 <p align="left">
-<a href="https://twitter.com/AbirHasan2005"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?logo=twitter"></a>
+<a href="https://twitter.com/prabhashapiumantha"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?logo=twitter"></a>
 </p>
 <p align="left">
-<a href="https://facebook.com/AbirHasan2005"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a>
+<a href="https://facebook.com/prabhasha999"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a>
 </p>
 <p align="left">
-<a href="https://instagram.com/AbirHasan2005"><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-important.svg?logo=instagram"></a>
+<a href="https://instagram.com/prabhasha999"><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-important.svg?logo=instagram"></a>
 </p>
