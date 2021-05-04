@@ -15,13 +15,13 @@ from pyrogram.errors import (
 API_TEXT = """Hello, {}.
 This is Pyrogram's String Session Generator Bot. I will generate String Session of your Telegram Account 🙂
 
-By @HiTechRocket 👨‍💻
+By @slbotzone 👨‍💻
 
 Now send your `API_ID` same as `APP_ID` to Start Generating Session."""
 HASH_TEXT = "Now send your `API_HASH`.\n\nPress /cancel to Cancel Task."
 PHONE_NUMBER_TEXT = (
     "Now send your Telegram account's Phone number in International Format. \n"
-    "Including Country code. Example: **+1 415 456 XXXX**\n\n"
+    "Including Country code. Example: **+94  415 456 XXX**\n\n"
     "Press /cancel to Cancel Task."
 )
 
@@ -159,11 +159,11 @@ Must Join Channel for Bot Updates !!
     reply_markup = InlineKeyboardMarkup(
         [
             [
-                InlineKeyboardButton('Support Group', url='https://t.me/HiTechRockets'),
-                InlineKeyboardButton('Developer', url='https://t.me/Prabha_sha')
+                InlineKeyboardButton('Support Group', url='https://t.me/slbotzone'),
+                InlineKeyboardButton('Developer', url='https://t.me/supunma')
             ],
             [
-                InlineKeyboardButton('Bots Updates Channel', url='https://t.me/HiTechRocket'),
+                InlineKeyboardButton('Bots Updates Channel', url='https://t.me/SL_bot_zone'),
             ]
         ]
     )
